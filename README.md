@@ -1,1 +1,1 @@
-# cut-the-crap
+# Cut-the-crap
